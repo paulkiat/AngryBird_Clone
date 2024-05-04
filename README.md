@@ -1,4 +1,6 @@
-![Game Demo](path/to/your.gif)
+<div align="center">
+  <img src="./angryBird/assets/AngryBird-Clone.gif" alt="Game-Demo">
+</div>
 
 ## Features
 1. **Propeller System:**
